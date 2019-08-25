@@ -1,0 +1,1251 @@
+{
+  "20190723023908_0001_receiptNo060553_imgRect.png1266311": {
+    "fileref": "",
+    "size": 1266311,
+    "filename": "20190723023908_0001_receiptNo060553_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [873, 945, 1015, 940, 873],
+          "all_points_y": [299, 276, 453, 472, 299]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723024254_0000_receiptNo060647_imgRect.png443879": {
+    "fileref": "",
+    "size": 443879,
+    "filename": "20190723024254_0000_receiptNo060647_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [224, 296, 291, 219, 224],
+          "all_points_y": [355, 360, 529, 524, 355]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723024310_0005_receiptNo060655_imgRect.png1465971": {
+    "fileref": "",
+    "size": 1465971,
+    "filename": "20190723024310_0005_receiptNo060655_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [363, 354, 220, 222, 363],
+          "all_points_y": [164, 240, 238, 164, 164]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723024519_1164_receiptNo060712_imgRect.png130460": {
+    "fileref": "",
+    "size": 130460,
+    "filename": "20190723024519_1164_receiptNo060712_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [61, 125, 129, 69, 61],
+          "all_points_y": [544, 544, 694, 693, 544]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723024521_1061_receiptNo060713_imgRect.png128344": {
+    "fileref": "",
+    "size": 128344,
+    "filename": "20190723024521_1061_receiptNo060713_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [57, 126, 129, 67, 57],
+          "all_points_y": [546, 546, 692, 693, 546]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723024621_1654_receiptNo060739_imgRect.png1376843": {
+    "fileref": "",
+    "size": 1376843,
+    "filename": "20190723024621_1654_receiptNo060739_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [933, 1069, 1065, 933, 933],
+          "all_points_y": [359, 372, 416, 410, 359]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025020_0277_receiptNo060852_imgRect.png391574": {
+    "fileref": "",
+    "size": 391574,
+    "filename": "20190723025020_0277_receiptNo060852_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [219, 311, 266, 169, 219],
+          "all_points_y": [65, 79, 262, 237, 65]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025136_0001_receiptNo060883_imgRect.png435025": {
+    "fileref": "",
+    "size": 435025,
+    "filename": "20190723025136_0001_receiptNo060883_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [219, 300, 291, 208, 219],
+          "all_points_y": [224, 231, 395, 383, 224]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025222_0139_receiptNo060904_imgRect.png1120375": {
+    "fileref": "",
+    "size": 1120375,
+    "filename": "20190723025222_0139_receiptNo060904_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [310, 313, 172, 172, 310],
+          "all_points_y": [114, 182, 185, 111, 114]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025605_0010_receiptNo061004_imgRect.png1275513": {
+    "fileref": "",
+    "size": 1275513,
+    "filename": "20190723025605_0010_receiptNo061004_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [597, 652, 639, 593, 597],
+          "all_points_y": [884, 888, 1019, 1023, 884]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025608_1824_receiptNo061005_imgRect.png657383": {
+    "fileref": "",
+    "size": 657383,
+    "filename": "20190723025608_1824_receiptNo061005_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [360, 500, 508, 368, 360],
+          "all_points_y": [761, 740, 787, 813, 761]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025710_0002_receiptNo061031_imgRect.png1275128": {
+    "fileref": "",
+    "size": 1275128,
+    "filename": "20190723025710_0002_receiptNo061031_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [342, 394, 402, 350, 342],
+          "all_points_y": [133, 135, 263, 267, 133]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025718_0755_receiptNo061034_imgRect.png645286": {
+    "fileref": "",
+    "size": 645286,
+    "filename": "20190723025718_0755_receiptNo061034_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [458, 600, 598, 462, 458],
+          "all_points_y": [671, 668, 713, 722, 671]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723025734_0001_receiptNo061041_imgRect.png431268": {
+    "fileref": "",
+    "size": 431268,
+    "filename": "20190723025734_0001_receiptNo061041_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [168, 245, 248, 170, 168],
+          "all_points_y": [338, 336, 496, 495, 338]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030017_1426_receiptNo061116_imgRect.png1037981": {
+    "fileref": "",
+    "size": 1037981,
+    "filename": "20190723030017_1426_receiptNo061116_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [360, 408, 399, 356, 360],
+          "all_points_y": [352, 354, 496, 487, 352]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030031_0128_receiptNo061122_imgRect.png259169": {
+    "fileref": "",
+    "size": 259169,
+    "filename": "20190723030031_0128_receiptNo061122_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [294, 435, 435, 294, 294],
+          "all_points_y": [75, 80, 125, 122, 75]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030043_0269_receiptNo061127_imgRect.png928112": {
+    "fileref": "",
+    "size": 928112,
+    "filename": "20190723030043_0269_receiptNo061127_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [423, 562, 575, 444, 423],
+          "all_points_y": [240, 178, 217, 281, 240]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030046_0679_receiptNo061128_imgRect.png1383132": {
+    "fileref": "",
+    "size": 1383132,
+    "filename": "20190723030046_0679_receiptNo061128_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [872, 1020, 1016, 876, 872],
+          "all_points_y": [344, 335, 378, 388, 344]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030225_0014_receiptNo061172_imgRect.png462934": {
+    "fileref": "",
+    "size": 462934,
+    "filename": "20190723030225_0014_receiptNo061172_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [140, 221, 215, 134, 140],
+          "all_points_y": [550, 556, 734, 734, 550]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030609_0027_receiptNo061269_imgRect.png900160": {
+    "fileref": "",
+    "size": 900160,
+    "filename": "20190723030609_0027_receiptNo061269_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [194, 227, 320, 285, 194],
+          "all_points_y": [384, 416, 295, 267, 384]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030612_0021_receiptNo061270_imgRect.png813137": {
+    "fileref": "",
+    "size": 813137,
+    "filename": "20190723030612_0021_receiptNo061270_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [286, 425, 423, 283, 286],
+          "all_points_y": [162, 190, 235, 212, 162]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030614_0103_receiptNo061271_imgRect.png758592": {
+    "fileref": "",
+    "size": 758592,
+    "filename": "20190723030614_0103_receiptNo061271_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [788, 839, 840, 791, 788],
+          "all_points_y": [179, 182, 319, 318, 179]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030617_0500_receiptNo061272_imgRect.png436829": {
+    "fileref": "",
+    "size": 436829,
+    "filename": "20190723030617_0500_receiptNo061272_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [277, 282, 424, 419, 277],
+          "all_points_y": [24, 81, 71, 14, 24]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030627_0001_receiptNo061276_imgRect.png291085": {
+    "fileref": "",
+    "size": 291085,
+    "filename": "20190723030627_0001_receiptNo061276_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [95, 130, 239, 206, 95],
+          "all_points_y": [124, 173, 93, 43, 124]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030629_0001_receiptNo061277_imgRect.png285920": {
+    "fileref": "",
+    "size": 285920,
+    "filename": "20190723030629_0001_receiptNo061277_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [255, 236, 357, 379, 255],
+          "all_points_y": [41, 97, 155, 102, 41]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723030632_0002_receiptNo061278_imgRect.png325017": {
+    "fileref": "",
+    "size": 325017,
+    "filename": "20190723030632_0002_receiptNo061278_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [413, 475, 507, 439, 413],
+          "all_points_y": [175, 164, 296, 313, 175]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723031122_0002_receiptNo061398_imgRect.png834780": {
+    "fileref": "",
+    "size": 834780,
+    "filename": "20190723031122_0002_receiptNo061398_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [761, 822, 816, 756, 761],
+          "all_points_y": [325, 327, 502, 499, 325]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723031125_0002_receiptNo061399_imgRect.png852079": {
+    "fileref": "",
+    "size": 852079,
+    "filename": "20190723031125_0002_receiptNo061399_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [498, 526, 693, 660, 498],
+          "all_points_y": [766, 822, 748, 692, 766]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190723031127_0002_receiptNo061400_imgRect.png915985": {
+    "fileref": "",
+    "size": 915985,
+    "filename": "20190723031127_0002_receiptNo061400_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [83, 140, 254, 200, 83],
+          "all_points_y": [635, 599, 753, 794, 635]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814161955_2136_receiptNo36280_imgRect.png1238649": {
+    "fileref": "",
+    "size": 1238649,
+    "filename": "20190814161955_2136_receiptNo36280_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [463, 583, 606, 480, 463],
+          "all_points_y": [623, 550, 588, 656, 623]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162000_0014_receiptNo36281_imgRect.png328923": {
+    "fileref": "",
+    "size": 328923,
+    "filename": "20190814162000_0014_receiptNo36281_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [317, 452, 457, 318, 317],
+          "all_points_y": [429, 398, 432, 459, 429]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162000_1505_receiptNo36281_imgRect.png1221775": {
+    "fileref": "",
+    "size": 1221775,
+    "filename": "20190814162000_1505_receiptNo36281_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [427, 563, 572, 435, 427],
+          "all_points_y": [587, 553, 587, 626, 587]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162004_0009_receiptNo36282_imgRect.png303658": {
+    "fileref": "",
+    "size": 303658,
+    "filename": "20190814162004_0009_receiptNo36282_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [305, 444, 444, 300, 305],
+          "all_points_y": [342, 339, 369, 368, 342]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162004_1015_receiptNo36282_imgRect.png1239828": {
+    "fileref": "",
+    "size": 1239828,
+    "filename": "20190814162004_1015_receiptNo36282_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [390, 530, 534, 390, 390],
+          "all_points_y": [556, 550, 588, 596, 556]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162030_0451_receiptNo36283_imgRect.png1328164": {
+    "fileref": "",
+    "size": 1328164,
+    "filename": "20190814162030_0451_receiptNo36283_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [572, 701, 708, 572, 572],
+          "all_points_y": [873, 865, 902, 910, 873]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162038_0981_receiptNo36284_imgRect.png1404716": {
+    "fileref": "",
+    "size": 1404716,
+    "filename": "20190814162038_0981_receiptNo36284_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [594, 734, 716, 580, 594],
+          "all_points_y": [986, 1030, 1068, 1024, 986]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162045_1027_receiptNo36285_imgRect.png1431627": {
+    "fileref": "",
+    "size": 1431627,
+    "filename": "20190814162045_1027_receiptNo36285_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [566, 682, 650, 540, 566],
+          "all_points_y": [960, 1069, 1098, 993, 960]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162052_0743_receiptNo36286_imgRect.png1417721": {
+    "fileref": "",
+    "size": 1417721,
+    "filename": "20190814162052_0743_receiptNo36286_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [428, 461, 533, 499, 428],
+          "all_points_y": [847, 826, 959, 973, 847]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162059_0747_receiptNo36287_imgRect.png1344199": {
+    "fileref": "",
+    "size": 1344199,
+    "filename": "20190814162059_0747_receiptNo36287_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [286, 318, 322, 286, 286],
+          "all_points_y": [574, 574, 727, 725, 574]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162105_0939_receiptNo36288_imgRect.png1405092": {
+    "fileref": "",
+    "size": 1405092,
+    "filename": "20190814162105_0939_receiptNo36288_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [418, 448, 398, 359, 418],
+          "all_points_y": [583, 600, 733, 717, 583]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162112_1413_receiptNo36289_imgRect.png1414957": {
+    "fileref": "",
+    "size": 1414957,
+    "filename": "20190814162112_1413_receiptNo36289_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [550, 585, 469, 447, 550],
+          "all_points_y": [508, 539, 650, 617, 508]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162118_1394_receiptNo36290_imgRect.png1373783": {
+    "fileref": "",
+    "size": 1373783,
+    "filename": "20190814162118_1394_receiptNo36290_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [621, 642, 505, 495, 621],
+          "all_points_y": [395, 429, 497, 454, 395]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162125_1502_receiptNo36291_imgRect.png1288611": {
+    "fileref": "",
+    "size": 1288611,
+    "filename": "20190814162125_1502_receiptNo36291_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [533, 669, 678, 535, 533],
+          "all_points_y": [324, 291, 331, 367, 324]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162130_0506_receiptNo36292_imgRect.png1257096": {
+    "fileref": "",
+    "size": 1257096,
+    "filename": "20190814162130_0506_receiptNo36292_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [528, 677, 680, 528, 528],
+          "all_points_y": [286, 288, 324, 329, 286]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162140_0914_receiptNo36293_imgRect.png1288881": {
+    "fileref": "",
+    "size": 1288881,
+    "filename": "20190814162140_0914_receiptNo36293_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [427, 559, 566, 427, 427],
+          "all_points_y": [874, 884, 920, 911, 874]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162147_0808_receiptNo36294_imgRect.png1379987": {
+    "fileref": "",
+    "size": 1379987,
+    "filename": "20190814162147_0808_receiptNo36294_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [415, 540, 530, 398, 415],
+          "all_points_y": [973, 1034, 1065, 1000, 973]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162153_1399_receiptNo36295_imgRect.png1398840": {
+    "fileref": "",
+    "size": 1398840,
+    "filename": "20190814162153_1399_receiptNo36295_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [383, 474, 452, 350, 383],
+          "all_points_y": [950, 1047, 1077, 967, 950]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162200_1251_receiptNo36296_imgRect.png1388380": {
+    "fileref": "",
+    "size": 1388380,
+    "filename": "20190814162200_1251_receiptNo36296_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [294, 361, 326, 265, 294],
+          "all_points_y": [843, 967, 986, 851, 843]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162208_0943_receiptNo36297_imgRect.png1328567": {
+    "fileref": "",
+    "size": 1328567,
+    "filename": "20190814162208_0943_receiptNo36297_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [133, 168, 183, 149, 133],
+          "all_points_y": [551, 553, 691, 690, 551]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162215_3356_receiptNo36298_imgRect.png1380465": {
+    "fileref": "",
+    "size": 1380465,
+    "filename": "20190814162215_3356_receiptNo36298_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [242, 277, 223, 186, 242],
+          "all_points_y": [555, 567, 699, 689, 555]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162215_3609_receiptNo36298_imgRect.png822": {
+    "fileref": "",
+    "size": 822,
+    "filename": "20190814162215_3609_receiptNo36298_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {}
+  },
+  "20190814162221_1865_receiptNo36299_imgRect.png1411779": {
+    "fileref": "",
+    "size": 1411779,
+    "filename": "20190814162221_1865_receiptNo36299_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [367, 391, 293, 267, 367],
+          "all_points_y": [489, 521, 615, 582, 489]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162228_1803_receiptNo36300_imgRect.png1388286": {
+    "fileref": "",
+    "size": 1388286,
+    "filename": "20190814162228_1803_receiptNo36300_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [338, 469, 485, 356, 338],
+          "all_points_y": [414, 365, 401, 449, 414]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162234_1350_receiptNo36301_imgRect.png1300152": {
+    "fileref": "",
+    "size": 1300152,
+    "filename": "20190814162234_1350_receiptNo36301_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [361, 492, 492, 360, 361],
+          "all_points_y": [264, 265, 306, 301, 264]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162241_1345_receiptNo36302_imgRect.png1273879": {
+    "fileref": "",
+    "size": 1273879,
+    "filename": "20190814162241_1345_receiptNo36302_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [1093, 1226, 1226, 1093, 1093],
+          "all_points_y": [765, 765, 801, 806, 765]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162248_0383_receiptNo36303_imgRect.png1337547": {
+    "fileref": "",
+    "size": 1337547,
+    "filename": "20190814162248_0383_receiptNo36303_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [639, 765, 752, 612, 639],
+          "all_points_y": [781, 837, 877, 818, 781]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162256_0235_receiptNo36304_imgRect.png1392525": {
+    "fileref": "",
+    "size": 1392525,
+    "filename": "20190814162256_0235_receiptNo36304_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [581, 686, 656, 554, 581],
+          "all_points_y": [793, 900, 931, 828, 793]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162302_0340_receiptNo36305_imgRect.png1380184": {
+    "fileref": "",
+    "size": 1380184,
+    "filename": "20190814162302_0340_receiptNo36305_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [475, 546, 514, 438, 475],
+          "all_points_y": [649, 788, 800, 661, 649]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162309_0648_receiptNo36306_imgRect.png1321416": {
+    "fileref": "",
+    "size": 1321416,
+    "filename": "20190814162309_0648_receiptNo36306_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [339, 377, 413, 377, 339],
+          "all_points_y": [505, 503, 643, 656, 505]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162315_0745_receiptNo36307_imgRect.png1262100": {
+    "fileref": "",
+    "size": 1262100,
+    "filename": "20190814162315_0745_receiptNo36307_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [294, 336, 341, 307, 294],
+          "all_points_y": [422, 427, 570, 572, 422]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162321_0243_receiptNo36308_imgRect.png1335096": {
+    "fileref": "",
+    "size": 1335096,
+    "filename": "20190814162321_0243_receiptNo36308_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [466, 496, 439, 401, 466],
+          "all_points_y": [330, 347, 477, 456, 330]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162328_0601_receiptNo36309_imgRect.png1335779": {
+    "fileref": "",
+    "size": 1335779,
+    "filename": "20190814162328_0601_receiptNo36309_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [872, 904, 795, 793, 767, 872],
+          "all_points_y": [259, 287, 372, 376, 343, 259]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162333_0256_receiptNo36310_imgRect.png1304814": {
+    "fileref": "",
+    "size": 1304814,
+    "filename": "20190814162333_0256_receiptNo36310_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [485, 607, 619, 628, 496, 485],
+          "all_points_y": [168, 143, 143, 173, 211, 168]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162340_0542_receiptNo36311_imgRect.png1224305": {
+    "fileref": "",
+    "size": 1224305,
+    "filename": "20190814162340_0542_receiptNo36311_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [502, 628, 633, 502, 502],
+          "all_points_y": [129, 134, 169, 166, 129]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162348_0439_receiptNo36312_imgRect.png1277375": {
+    "fileref": "",
+    "size": 1277375,
+    "filename": "20190814162348_0439_receiptNo36312_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [396, 533, 536, 396, 396],
+          "all_points_y": [723, 720, 762, 765, 723]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162355_0659_receiptNo36313_imgRect.png1363017": {
+    "fileref": "",
+    "size": 1363017,
+    "filename": "20190814162355_0659_receiptNo36313_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [432, 562, 553, 413, 432],
+          "all_points_y": [796, 836, 873, 830, 796]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162402_0612_receiptNo36314_imgRect.png1429591": {
+    "fileref": "",
+    "size": 1429591,
+    "filename": "20190814162402_0612_receiptNo36314_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [401, 510, 478, 371, 401],
+          "all_points_y": [840, 941, 965, 866, 840]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162409_0511_receiptNo36315_imgRect.png1446653": {
+    "fileref": "",
+    "size": 1446653,
+    "filename": "20190814162409_0511_receiptNo36315_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [302, 337, 413, 384, 302],
+          "all_points_y": [744, 730, 858, 873, 744]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162415_0723_receiptNo36316_imgRect.png1304699": {
+    "fileref": "",
+    "size": 1304699,
+    "filename": "20190814162415_0723_receiptNo36316_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [134, 170, 162, 129, 134],
+          "all_points_y": [437, 437, 569, 569, 437]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162422_0906_receiptNo36317_imgRect.png1415099": {
+    "fileref": "",
+    "size": 1415099,
+    "filename": "20190814162422_0906_receiptNo36317_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [270, 299, 249, 226, 216, 270],
+          "all_points_y": [411, 420, 554, 546, 540, 411]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162429_0612_receiptNo36318_imgRect.png1444261": {
+    "fileref": "",
+    "size": 1444261,
+    "filename": "20190814162429_0612_receiptNo36318_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [365, 395, 311, 281, 365],
+          "all_points_y": [389, 410, 523, 500, 389]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162436_0656_receiptNo36319_imgRect.png1412825": {
+    "fileref": "",
+    "size": 1412825,
+    "filename": "20190814162436_0656_receiptNo36319_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [439, 457, 343, 325, 439],
+          "all_points_y": [254, 284, 364, 329, 254]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162443_1203_receiptNo36320_imgRect.png1316730": {
+    "fileref": "",
+    "size": 1316730,
+    "filename": "20190814162443_1203_receiptNo36320_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [326, 450, 457, 328, 326],
+          "all_points_y": [175, 149, 183, 216, 175]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  },
+  "20190814162452_0953_receiptNo36321_imgRect.png1207866": {
+    "fileref": "",
+    "size": 1207866,
+    "filename": "20190814162452_0953_receiptNo36321_imgRect.png",
+    "base64_img_data": "",
+    "file_attributes": {},
+    "regions": {
+      "0": {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [334, 457, 457, 334, 334],
+          "all_points_y": [107, 94, 120, 140, 107]
+        },
+        "region_attributes": { "name": "barcode" }
+      }
+    }
+  }
+}
